@@ -9,6 +9,16 @@
   "author": "Nuffy",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^2.0.0",
     "node-lol-chat": "git+https://github.com/Armax/lolchat.io.git"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuffZetPand0ra/lol-chat-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NuffZetPand0ra/lol-chat-bot/issues"
+  },
+  "homepage": "https://github.com/NuffZetPand0ra/lol-chat-bot#readme"
 }
