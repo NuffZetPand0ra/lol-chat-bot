@@ -1,0 +1,14 @@
+{
+  "name": "lol-chat-bot",
+  "version": "0.0.1",
+  "description": "A small chat bot to look up abilities and cooldowns in game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nuffy",
+  "license": "ISC",
+  "dependencies": {
+    "node-lol-chat": "git+https://github.com/Armax/lolchat.io.git"
+  }
+}
